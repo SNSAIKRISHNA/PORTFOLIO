@@ -43,4 +43,4 @@ LinkedIn: https://www.linkedin.com/in/saikrishnasn2211/
 
 Thank you for checking out my portfolio project!
 
-website: https://portfolio-nfxjhz4wl-saikrishna-sns-projects.vercel.app
+website: https://portfolio-git-main-saikrishna-sns-projects.vercel.app
